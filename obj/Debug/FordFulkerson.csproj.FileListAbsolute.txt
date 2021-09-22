@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.Form1.resources
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.Properties.Resources.resources
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\FordFulkerson\bin\Debug\FordFulkerson.exe.config
+C:\Users\Олег\source\repos\FordFulkerson\bin\Debug\FordFulkerson.exe
+C:\Users\Олег\source\repos\FordFulkerson\bin\Debug\FordFulkerson.pdb
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.exe
+C:\Users\Олег\source\repos\FordFulkerson\obj\Debug\FordFulkerson.pdb
